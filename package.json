@@ -1,0 +1,41 @@
+{
+  "name": "quick-badge-generator",
+  "version": "1.0.0",
+  "description": "A simple API to generate badges for your GitHub Projects!",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDotJS/quick-badge-generator.git"
+  },
+  "keywords": [
+    "generate",
+    "badge",
+    "link",
+    "npm",
+    "packages",
+    "flat",
+    "plastic",
+    "badges",
+    "url"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (http://rishigiri.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeDotJS/quick-badge-generator/issues"
+  },
+  "homepage": "https://github.com/CodeDotJS/quick-badge-generator#readme"
+}
